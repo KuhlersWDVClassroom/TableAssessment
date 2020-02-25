@@ -1,0 +1,36 @@
+body{background-image: url(img/Bumble.png);
+    color: #000000; 
+    text-align: left;
+    padding-left: 30%;
+    padding-right: 30%;
+    background-size: 100%;}
+
+h1{background-color: #97747400; 
+    color: #000000; 
+    text-align: center;}
+
+h2{color: #000000;}
+
+a:link, a:visited, a:hover, a:active{text-decoration: none; 
+    background-color: #ffffff00; 
+    color: #74efff;}
+
+a:hover{color: #ff0000;}
+
+main{background-color: #c8e1f5e1;}
+
+nav{background-color: #4529c2;}
+
+#Apis{text-align: center;}
+
+img{max-width:100%;}
+
+.search-button{
+    background: #ffffff;
+    padding: 0;
+    width: 23px;
+    height: 23px;
+    color: white;
+    transform: translate(-25%,6px);
+}
+#tab{text-align: center;}
